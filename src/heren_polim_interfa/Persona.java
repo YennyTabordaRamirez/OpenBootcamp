@@ -1,4 +1,4 @@
-package priv_Abstracc_Encap;
+package heren_polim_interfa;
 
 public class Persona {
     private String nombre;
